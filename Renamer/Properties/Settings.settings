@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Renamer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="search1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7852_2-R-014_069_000-SES-01</Value>
+    </Setting>
+    <Setting Name="replace1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7852_2-R-014_069_000-SES-01</Value>
+    </Setting>
+    <Setting Name="search2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7852/2-Р-014.069.000-СЭС-01</Value>
+    </Setting>
+    <Setting Name="replace2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7852/2-Р-014.069.000-СЭС-01</Value>
+    </Setting>
+    <Setting Name="search3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Обустройство кустовой площадки №15.3 Северо-Комсомольского месторождения. Этапы 5-41</Value>
+    </Setting>
+    <Setting Name="replace3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Обустройство кустовой площадки №15.3 Северо-Комсомольского месторождения. Этапы 5-41</Value>
+    </Setting>
+    <Setting Name="search4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Обустройство кустовой площадки №15.3</Value>
+    </Setting>
+    <Setting Name="replace4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Обустройство кустовой площадки №15.3</Value>
+    </Setting>
+    <Setting Name="search5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">432219</Value>
+    </Setting>
+    <Setting Name="replace5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">432219</Value>
+    </Setting>
+    <Setting Name="search6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25.08.22</Value>
+    </Setting>
+    <Setting Name="replace6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25.08.22</Value>
+    </Setting>
+    <Setting Name="search7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7852/2</Value>
+    </Setting>
+    <Setting Name="replace7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7852/2</Value>
+    </Setting>
+    <Setting Name="search8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">014.069.000</Value>
+    </Setting>
+    <Setting Name="replace8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">014.069.000</Value>
+    </Setting>
+    <Setting Name="search9" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="replace9" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="search10" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="replace10" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="wildcard" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
